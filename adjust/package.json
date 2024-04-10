@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native/adjust@4.20.0",
+  "_id": "@ionic-native/adjust@4.20.0",
+  "_inBundle": false,
+  "_integrity": "sha512-BWYg4lVjOdSQMGjk+dWfH085v784+nwBu3VypoKJFdmTc9yYOmnqssYNwK4z6Bym4WYhaM4qrpmCxD99GLTesA==",
+  "_location": "/@ionic-native/adjust",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ionic-native/adjust@4.20.0",
+    "name": "@ionic-native/adjust",
+    "escapedName": "@ionic-native%2fadjust",
+    "scope": "@ionic-native",
+    "rawSpec": "4.20.0",
+    "saveSpec": null,
+    "fetchSpec": "4.20.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native/adjust/-/adjust-4.20.0.tgz",
+  "_shasum": "79ddfe61ae79ba29a89b6df8bdd9cd1e89ac023f",
+  "_spec": "@ionic-native/adjust@4.20.0",
+  "_where": "/Users/cv/workspace/aop-mobile-app-ekyc/AOPMobileApp",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/adjust",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0",
+    "@angular/core": "*",
+    "rxjs": "^5.5.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.20.0"
+}
